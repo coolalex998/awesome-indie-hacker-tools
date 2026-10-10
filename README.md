@@ -42,3 +42,8 @@ Lass nicht zu, dass lästige administrative Aufgaben zum Flaschenhals deines Ges
 👉 **[Hol dir jetzt deine kostenlose Testversion von Kreativ.Management und erlebe 1-Klick-Invoicing & Auto-Mahnungen](https://jmp9.com/0a4c3622)**
 
 > 📝 **Hinweis:** Das System unterstützt perfekten plattformübergreifenden Web-Zugriff. Es müssen keine Dependencies installiert werden. In 5 Minuten nach der Registrierung läuft der Billing-Prozess für dein erstes Projekt einwandfrei.
+
+
+## 🧰 Weitere Tools / Additional Tools
+
+- [CleanInvoice](https://toolkasa.com) — free invoice templates for 15 service trades, no signup, works offline
