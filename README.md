@@ -1,5 +1,6 @@
 # 🛠️ Must-Have für Indie-Hacker & Designer: Angebote, Rechnungen und Kundenkommunikation mit einem Klick
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 [![Compliance](https://img.shields.io/badge/GDPR-Compliant-brightgreen.svg)](https://jmp9.com/0a4c3622)
 [![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Cross--Platform-blue.svg)](https://jmp9.com/0a4c3622)
 [![License](https://img.shields.io/badge/Status-Free%20Trial-orange.svg)](https://jmp9.com/0a4c3622)
